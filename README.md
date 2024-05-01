@@ -7,3 +7,5 @@
 - [Heart Disease Prediction](https://github.com/Darkbeast747474/Machine_learning_Projects/tree/main/Heart_disease_Predictions) - Heart Disease Prediction Using Logistic Regression Algorithm Filling Null values And Some EDA , Model Training With Sklearn Library model Objects 
 
 - [Loan Eligibility Prediction](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Loan_Eligibility_Prediction/Loan_Eligible.ipynb) - Loan Eligibility Prediction Using Logistic Regression Algorithm Transforming DataSet Ideal For Model Training And Sklearn Library Model Objects are Used
+
+- [Diabetes Disease Prediction]() - Diabetes Prediction Using Logistic Regression Algorithm Some EDA And Fine Tuning Methods Such As Grid Search By Sklearn Library 
