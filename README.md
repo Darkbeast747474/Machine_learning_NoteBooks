@@ -9,3 +9,5 @@
 - [Loan Eligibility Prediction](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Loan_Eligibility_Prediction/Loan_Eligible.ipynb) - Loan Eligibility Prediction Using Logistic Regression Algorithm Transforming DataSet Ideal For Model Training And Sklearn Library Model Objects are Used
 
 - [Diabetes Disease Prediction](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Diabetes_disease_Predictions/Diabetes_Disease.ipynb) - Diabetes Prediction Using Logistic Regression Algorithm Some EDA And Fine Tuning Methods Such As Grid Search By Sklearn Library 
+
+- [Wine Quality Predictions](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Wine_Quality_Predictions/Wine_Quality.ipynb) - Wine Quality Predictions using Linear Regression Algorithm Some EDA And Testing with Different Instances
