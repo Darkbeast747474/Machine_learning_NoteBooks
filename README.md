@@ -10,4 +10,4 @@
 
 - [Diabetes Disease Prediction](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Diabetes_disease_Predictions/Diabetes_Disease.ipynb) - Diabetes Prediction Using Logistic Regression Algorithm Some EDA And Fine Tuning Methods Such As Grid Search By Sklearn Library 
 
-- [Wine Quality Predictions](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Wine_Quality_Predictions/Wine_Quality.ipynb) - Wine Quality Predictions using Linear Regression Algorithm Some EDA And Testing with Different Instances
+- [Wine Quality Predictions](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Wine_Quality_Predition/Wine_Quality.ipynb) - Wine Quality Predictions using Linear Regression Algorithm Some EDA And Testing with Different Instances
