@@ -12,4 +12,4 @@
 
 - [Wine Quality Predictions](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Wine_Quality_Predition/Wine_Quality.ipynb) - Wine Quality Predictions using Linear Regression Algorithm Some EDA And Testing with Different Instances
 
-- [Anemia Classification](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Anemia_Class/AnemiaClass.ipynb) - Anemia Classification using Random Forest classifier Ensemble Algorithm With Data Preprocessing (Scaling The Data,Outlier Detection) , EDA And HyperParameter Tuning 
+- [Anemia Classification](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Anemia_Class/AnemiaClass.ipynb) - Anemia Classification using Random Forest classifier Ensemble Algorithm With Data Preprocessing Like Scaling The Data(For Logistic Regression) & Outlier Detection , EDA And HyperParameter Tuning 
