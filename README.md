@@ -1,4 +1,5 @@
 # Machine Learning Projects ✨
+## Notebooks for Educational Purposes on Implementation of  Machine Learning and Data Visualization Techniques
 
 - [Anemia Classification](https://github.com/Darkbeast747474/Machine_learning_Projects/blob/main/Anemia_Class/AnemiaClass.ipynb) - Anemia Classification using Random Forest classifier Ensemble Algorithm With Data Preprocessing Like Scaling The Data(For Logistic Regression) & Outlier Detection , EDA And HyperParameter Tuning
 
